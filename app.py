@@ -12,6 +12,12 @@ recipes = {
         "ingredients": ["instant ramen", "egg", "green onions", "hot sauce"],
         "instructions": "1. Boil water\n2. Cook noodles\n3. Add toppings"
     }
+    # add the new recipe to dictionary
+    "quick-pbj": {
+        "name": "Quick PB&J",
+        "ingredients": ["bread", "peanut butter", "jelly"],
+        "instructions": "1. Spread peanut butter & jelly on slices\n2. Put them together"
+    }
 }
 
 # HTML Templates as strings
